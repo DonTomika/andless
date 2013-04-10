@@ -1,0 +1,11 @@
+andLess
+=======
+
+This repo was cloned from https://code.google.com/p/andless/
+
+Description
+-----------
+
+This audio player can play lossless files (FLAC/APE/MPC/WV), or any files directly supported in Android.
+Now supports Apple lossless files (in M4A container) as well.
+CUE sheets and playlists are also supported, please read the Wiki pages for details.
